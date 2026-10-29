@@ -1,16 +1,15 @@
-## Hi there 👋
+Gabriel Lúzio
 
-<!--
-**gabrielluzio/GabrielLuzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend Developer | Python • FastAPI • MySQL
 
-Here are some ideas to get you started:
+Desenvolvedor focado na construção de APIs REST, integração de sistemas e soluções backend utilizando Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Experiência prática no desenvolvimento de aplicações envolvendo modelagem de dados, bancos relacionais, autenticação, validação de informações e integração com serviços externos.
+
+Foco na construção de soluções eficientes, seguras e de fácil manutenção, aplicando boas práticas de desenvolvimento de software.
+
+🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,mysql,git,github,vscode" />
+</p>
